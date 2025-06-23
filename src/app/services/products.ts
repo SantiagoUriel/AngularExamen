@@ -17,31 +17,31 @@ export class Products {
   private products:Product[] = [
     {
       id: 1,
-      nombre: 'Honda Transa LP',
-      descripcion : 'Ideal para ciudad',
-      precio: 6500,
-      imagen: '/img/honda-transalp.jpg'
+      nombre: 'Asus Zephyrus G14 2025',
+      descripcion : 'La portatil mas potente',
+      precio: 65000,
+      imagen: '/img/zephyrusg14.jpg'
     },
     {
       id: 2,
-      nombre: 'Kawasaky 600',
-      descripcion: 'Potente y elegante',
-      precio: 9200,
-      imagen: '/img/kawasaky 600.jpg'
+      nombre: 'Alienware Area 51',
+      descripcion: 'El regreso del gigante',
+      precio: 72000,
+      imagen: '/img/area51.jpg'
     },
     {
       id: 3,
-      nombre: 'Kawasaky KX 250',
-      descripcion: 'Moderna y económica',
-      precio: 3900,
-      imagen: '/img/kawasaky-kx250.jpg'
+      nombre: 'Legion Slim 5',
+      descripcion: 'La confiable y potente',
+      precio: 43000,
+      imagen: '/img/LegionSlim5.jpg'
     },
    {
       id: 4,
-      nombre: 'Suzuki 1200',
-      descripcion: 'Moderna y económica',
-      precio: 13900,
-      imagen: '/img/suzuki-1200.jpg'
+      nombre: 'Asus Rog Strix G16',
+      descripcion: 'Potencia portatil',
+      precio: 60900,
+      imagen: '/img/StrixG16.jpg'
    }
   ]
   constructor(){}
